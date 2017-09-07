@@ -1,0 +1,13 @@
+David Morales Aguilar
+Ingeniería de Sistemas
+Grupo de Trabajo PyGroup
+Fecha 6 de Septiembre de 2017
+
+Descripción del Proyecto PyGroup
+
+El siguiente proyecto tiene como objetivo fomentar e incursar en el aprendizaje sobre la programación con el enfoque dedicado al trabajo de Python desde cero como herramienta y crear un proyecto que permita aplicar lo aprendido en el grupo.
+
+Principalmente se desarrollará una aplicación en Python que permita aplicar los conceptos aprendidos durante la carrera de Ingeniería de Sistemas, esta aplicación puede brindar una ayuda a los usuarios que quieran hacer uso de ella.
+La idea propuesta a llevar a cabo es desplegar una aplicación web usando Django, dentro de esta aplicación web podrían añadirse varios servicios para el usuario (estudiante) que se irán construyendo a través del semestre (servicios 
+como; historia de la universidad, juegos, mapas interactivos de las sedes de la Universidad, etc) como unas versiones de prueba.
+
